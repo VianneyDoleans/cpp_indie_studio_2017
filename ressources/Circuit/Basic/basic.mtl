@@ -1,0 +1,33 @@
+# Blender MTL File: 'template.blend'
+# Material Count: 3
+
+newmtl bb_ami
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.622431 0.622431 0.622431
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd bb_ami.png
+map_d bb_ami.png
+
+newmtl lambert201
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd lambert201.png
+
+newmtl lambert246
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd lambert246.png
