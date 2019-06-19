@@ -50,7 +50,6 @@ A MVC architecture is used to allow independence of the different scenes (menu, 
 ![screenshot](./Screenshots/NoSplitView.png)
 ![screenshot](./Screenshots/SecondMap.png)
 ![screenshot](./Screenshots/ScoresMenu.png)
-![screenshot](./Screenshots/SelectionMap2.png)
 
 ## Contributors
 
